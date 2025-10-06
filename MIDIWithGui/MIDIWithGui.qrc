@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MIDIWithGui">
+        <file>Background.png</file>
+        <file>rollBackground.png</file>
+    </qresource>
+</RCC>

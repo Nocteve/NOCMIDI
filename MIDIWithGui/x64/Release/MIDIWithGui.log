@@ -1,0 +1,704 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.5.3
+  MIDIFunction.cpp
+  MIDIWithGui.cpp
+  main.cpp
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xde 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xdf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xe1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x129 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xe2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x12a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xe7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x130 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xe8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x216 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdfa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x217 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdfb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x21d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x899 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x89a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x89c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x8a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x8a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x8a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xf9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xfb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa18 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x101 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x103 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa19 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x104 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d32 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x105 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa1b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x107 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x109 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa20 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x10a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0xa21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x115 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x26bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x116 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x26bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x119 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dfc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x26c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x11a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dfd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x11b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e03 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x125 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x127 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x128 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x129 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x1c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x1cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x204 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x205 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x206 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x207 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x25c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x262 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x263 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x28fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x264 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2900 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x28c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2903 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x28d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2904 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x28e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2906 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x291 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2908 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x293 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2909 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x294 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x290a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x296 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x290c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x299 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x290d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x397 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x29a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x398 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2b11 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x39a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2b12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x39c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2b18 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x6bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2cd8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0x6bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2cdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xacc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x2cdd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xace 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xad0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xad4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xad5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xadb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xadc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xade 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xadf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xae0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xae2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xae3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdfa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xae4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdfb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xae6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xae8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xae9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xaea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xaeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xaee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xaef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xaf1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xb52 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xb53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xb57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xb58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xba6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d32 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xba7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xbab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xbf7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xbf8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xbfb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xbfc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xbfd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dfc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xbff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dfd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e03 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc0a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc13 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc15 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc1f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xc21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xcd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIFunction.cpp(1,1): warning C4828: 文件包含在偏移 0xcd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x141 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x147 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIFunction.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x141 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x141 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x147 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x147 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+  qrc_MIDIWithGui.cpp
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x186 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x187 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x189 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x190 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x192 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x193 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(1,1): warning C4828: 文件包含在偏移 0x1b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657faf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fb6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fb8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fd8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\x64\Release\qt\rcc\qrc_MIDIWithGui.cpp(79655,1): warning C4828: 文件包含在偏移 0x657fdb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  moc_MIDIWithGui.cpp
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdf7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdfa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0xdfb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1b5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d2e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1d32 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1db9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dfc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1dfd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e03 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDIWithGui.h(1,1): warning C4828: 文件包含在偏移 0x1e08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x141 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x147 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\MIDIWithGui\MIDI.h(1,1): warning C4828: 文件包含在偏移 0x154 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Release/qt/moc/moc_MIDIWithGui.cpp”)
+  
+  正在生成代码
+  178 of 189 functions (94.2%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MIDIWithGui.vcxproj -> C:\Users\LENOVO\Desktop\科中\2024-宋金昊-20241034835-考核材料提交\源文件\NOCMIDI\x64\Release\MIDIWithGui.exe
